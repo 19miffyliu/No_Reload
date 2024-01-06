@@ -1,0 +1,9 @@
+{
+  "name": "No_Reload",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/19miffyliu/No_Reload",
+  "description": "Let you use the shotgun without needing to reload.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
